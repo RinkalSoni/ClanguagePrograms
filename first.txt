@@ -2,5 +2,5 @@ Student management system
 1)student
 2)fees
 3)attandance
-4)courses
-5)Parents
+5)Parentsgchgh
+dgfhgfh
